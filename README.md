@@ -1,2 +1,2 @@
-PZero: Developer Test
-Conditions of the assessment
+Developer Test
+
